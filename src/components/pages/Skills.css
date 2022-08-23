@@ -1,0 +1,27 @@
+.icon-img {
+    width: 200px;
+    height: 200px;
+    border: 8px solid hsl(181, 100%, 50%);
+    border-radius: 50%;
+}
+
+.icon-img1 {
+    width: 200px;
+    height: 200px;
+    border: 8px solid red;
+    border-radius: 50%;
+}
+
+.icon-img2 {
+    width: 200px;
+    height: 200px;
+    border: 8px solid rgb(13, 246, 13);
+    border-radius: 50%;
+}
+
+.icon-img3 {
+    width: 200px;
+    height: 200px;
+    border: 8px solid rgb(12, 107, 147);
+    border-radius: 50%;
+}
