@@ -8,11 +8,11 @@ const Contact = () => {
         <div className='col-md-1 mt-4'></div>
         <div className='col-md-6 mb-5 mt-4'>
           <div className='row'>
-            <div className='col-md-5 position-relative mb-4'>
+            <div className='col-md-5 position-relative'>
               <input className="form-control form-control-lg position-absolute start-0" type="text" placeholder="Username" />
             </div>
             <div className='col-md-2'></div>
-            <div className='col-md-5 position-relative mb-4'>
+            <div className='col-md-5 position-relative'>
               <input className="form-control form-control-lg position-absolute end-0" type="text" placeholder="Email" />
             </div>
           </div><br /><br /><br />

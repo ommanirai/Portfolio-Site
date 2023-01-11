@@ -54,8 +54,8 @@ const Navbar = () => {
                                 </div>
                             </div>
                             <div className='text-center'>
-                            <p className='text-white fs-3'>I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience.</p>
-                            <button type="button" class="btn btn-outline-info btn-lg">Read Now</button>
+                                <p className='text-white fs-3'>I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience.</p>
+                                <button type="button" class="btn btn-outline-info btn-lg">Read Now</button>
                             </div>
                         </div>
                         <div className='col-md-3'>

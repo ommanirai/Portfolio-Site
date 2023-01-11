@@ -6,8 +6,8 @@ import DataFetch from './components/DataFetch';
 function App() {
   return (
     <>
-    {/* <MyRoutes/> */}
-    <DataFetch/>
+      <MyRoutes />
+      {/* <DataFetch/> */}
     </>
   );
 }
