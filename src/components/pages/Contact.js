@@ -15,9 +15,9 @@ const Contact = () => {
             <div className='col-md-5 position-relative'>
               <input className="form-control form-control-lg position-absolute end-0" type="text" placeholder="Email" />
             </div>
-          </div><br /><br /><br />
-          <input className="form-control form-control-lg mb-5" type="text" placeholder="Cost Of Your Project" />
-          <input className="form-control form-control-lg mb-5" type="text" placeholder="Timeline" />
+          </div>
+          <input className="form-control form-control-lg mb-5" type="text" placeholder="Cost Of Your Project" /><br />
+          <input className="form-control form-control-lg mb-5" type="text" placeholder="Timeline" /><br/>
           <div className="form-group">
             <textarea className="form-control  form-control-lg mb-5" id="exampleFormControlTextarea1" rows="4" placeholder='Do Not Forget That Kindness is All!'></textarea>
           </div>

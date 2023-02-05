@@ -9,7 +9,7 @@ const Navbar = () => {
                     <a className='fs-1 fw-bold text-white text-decoration-none' href="#">Resume</a>
                 </div>
                 <div className='col-lg-8 col-md-9 col-sm-8'>
-                    <nav className="navbar navbar-expand-lg">
+                    <nav className="navbar navbar-expand-lg" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <ul className="w-100 d-flex justify-content-evenly fs-4 mt-5">
                             <li className="nav-item">
                                 <a className="nav-link active text-white" aria-current="page" href="#">Home</a>
@@ -77,7 +77,7 @@ const Navbar = () => {
                         <a className='fs-1 fw-bold text-white text-decoration-none' href="#">Resume</a>
                     </div>
 
-                    <div className="col-6 mobile-container">
+                    <div className="col-6 mobile-container " id="navbarSupportedContent">
                         <div className="topnav">
                             <div id="myLinks">
                                 <a href="#news">Home</a>
@@ -86,7 +86,7 @@ const Navbar = () => {
                                 <a href="#about">Experience</a>
                                 <a href="#contact">Contact</a>
                             </div>
-                            <a href=" " className="icon">
+                            <a href=" " className="icon" >
                                 {/* <a href=" " className="icon" onClick="myFunction()"> */}
                                 <i className="bi bi-list"></i>
                             </a>
